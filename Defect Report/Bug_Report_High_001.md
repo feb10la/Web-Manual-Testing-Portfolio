@@ -1,7 +1,7 @@
 ### DEFECT REPORT: High Severity
 
-**Title:** [High] Product Filtering Is Ineffective (All Options)
-**  Severity:  ** High
+**Title:** [High] Product Filtering Is Ineffective (All Options) <br>
+**Severity:** High<br>
 **Status:** Open
 **Component/Module:** Inventory Page - Filter Feature
 **Environment:** Chrome Version 141.0.7390.77 (64-bit)
