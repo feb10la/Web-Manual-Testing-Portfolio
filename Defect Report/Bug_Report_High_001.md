@@ -20,4 +20,4 @@ The product list remains in its original default order, and products are not sor
 
 #### Attachment
 ![Screenshot Error](Defect_ReportsBug_Filter_Name.png) 
-[Screenshot Error](Defect_ReportsBug_Filter_Price.png) 
+![Screenshot Error](Defect_ReportsBug_Filter_Price.png) 
