@@ -17,3 +17,6 @@ The product list should reorder immediately based on the selected filter (e.g., 
 
 #### 3. Actual Result:
 The product list remains in its original default order, and products are not sorted according to the selected filter (Name A-Z/Z-A/Price Low-High/High-Low).
+
+#### Attachment
+![Screenshot Error](Defect_ReportsBug_Filter_Name.png)
