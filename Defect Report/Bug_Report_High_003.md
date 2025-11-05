@@ -19,4 +19,4 @@ The system should display a clear error message (e.g., "Please add items to your
 The system bypasses the validation and proceeds directly to the "Checkout: Your Information" page, despite the cart being empty.
 
 #### Attachment:
-![Video Bug Filter](Defect_Reports/Defect_Reports_Video_Bug_Checkout_with_Empty_Cart.gif)
+![Video Bug Filter](Defect_Reports_Video_Bug_Checkout_with_Empty_Cart.gif)
