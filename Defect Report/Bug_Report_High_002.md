@@ -19,4 +19,4 @@ The system should display a clear, user-friendly error message (e.g., "Gagal men
 The system fails to display any error message, and the product is not added to the cart. The application remains static, providing no feedback to the user regarding the failure.
 
 #### Attachment:
-![Video Bug Filter](Defect_Reports/Defect_Reports_Video_Bug_Add_To_Cart_Network_Error.gif)
+![Video Bug Filter](Defect_Reports_Video_Bug_Add_To_Cart_Network_Error.gif)
