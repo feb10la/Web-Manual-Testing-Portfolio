@@ -7,7 +7,7 @@
 **Environment:** Chrome Version 141.0.7390.77 (64-bit)
 
 ---
-### 1. Steps to Reproduce (STR):
+#### 1. Steps to Reproduce (STR):
 1.  Navigate to the Inventory Page (after login).
 2.  Click the Filter Icon (dropdown menu).
 3.  Select any filter option (e.g., Name A-Z, Name Z-A, Price Low-High, or Price High-Low).
